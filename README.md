@@ -11,7 +11,8 @@ Our project delivers the animated lively visualization into tracked images for c
 
 ### Unity versions
 
-
+2019.4.1f1
 
 #### References
 
+* [Vuforia](https://library.vuforia.com/articles/Training/Getting-Started-with-the-Vuforia-Target-Manager) - Vuforia SDK for Augmented Reality
